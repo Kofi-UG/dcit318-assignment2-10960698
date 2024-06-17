@@ -1,0 +1,14 @@
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\bin\Debug\net8.0\abstractClassMethod.exe
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\bin\Debug\net8.0\abstractClassMethod.deps.json
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\bin\Debug\net8.0\abstractClassMethod.runtimeconfig.json
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\bin\Debug\net8.0\abstractClassMethod.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\bin\Debug\net8.0\abstractClassMethod.pdb
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\abstractClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\abstractClassMethod.AssemblyInfoInputs.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\abstractClassMethod.AssemblyInfo.cs
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\abstractClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\abstractClassMethod.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\refint\abstractClassMethod.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\abstractClassMethod.pdb
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\abstractClassMethod.genruntimeconfig.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\abstractClassMethod\obj\Debug\net8.0\ref\abstractClassMethod.dll
