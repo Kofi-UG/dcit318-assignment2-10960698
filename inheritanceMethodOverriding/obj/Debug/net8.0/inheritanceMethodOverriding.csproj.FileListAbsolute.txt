@@ -1,0 +1,14 @@
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\bin\Debug\net8.0\inheritanceMethodOverriding.exe
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\bin\Debug\net8.0\inheritanceMethodOverriding.deps.json
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\bin\Debug\net8.0\inheritanceMethodOverriding.runtimeconfig.json
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\bin\Debug\net8.0\inheritanceMethodOverriding.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\bin\Debug\net8.0\inheritanceMethodOverriding.pdb
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\inheritanceMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\inheritanceMethodOverriding.AssemblyInfoInputs.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\inheritanceMethodOverriding.AssemblyInfo.cs
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\inheritanceMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\inheritanceMethodOverriding.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\refint\inheritanceMethodOverriding.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\inheritanceMethodOverriding.pdb
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\inheritanceMethodOverriding.genruntimeconfig.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\inheritanceMethodOverriding\obj\Debug\net8.0\ref\inheritanceMethodOverriding.dll
