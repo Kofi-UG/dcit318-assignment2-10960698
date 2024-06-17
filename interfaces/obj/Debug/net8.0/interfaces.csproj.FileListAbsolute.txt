@@ -1,0 +1,14 @@
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\bin\Debug\net8.0\interfaces.exe
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\bin\Debug\net8.0\interfaces.deps.json
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\bin\Debug\net8.0\interfaces.runtimeconfig.json
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\bin\Debug\net8.0\interfaces.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\bin\Debug\net8.0\interfaces.pdb
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfo.cs
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\interfaces.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\refint\interfaces.dll
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\interfaces.pdb
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\interfaces.genruntimeconfig.cache
+C:\Users\hp spectre\Desktop\dcit318 HW2\interfaces\obj\Debug\net8.0\ref\interfaces.dll
